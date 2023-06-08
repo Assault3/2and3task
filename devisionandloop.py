@@ -6,5 +6,6 @@ elif n >=2 and n <=5:
 elif n >=6 and n <=20:
     print(Weird)
 else: 
-    print(Not Weird) #devisin for i in range(0, 5):
+    print(Not Weird) #devisin
+    for i in range(0, 5):
     print(i**2) #loop
